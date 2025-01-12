@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning fullstack web-service development on TypeScript, React and Node.js
 - 💞️ I’m looking to collaborate on (Not at the moment)
 - 📫 How to reach me - send me a message in Telegram @roman_vilay
-- 😄 Pronouns: vilay, roman-vilay
+- 😄 Pronouns: men
 - ⚡ Fun fact: The maximum range of the latest Oreshnik hypersonic ballistic missile is 5.5 thousand km. The maximum flight speed of Mach 10 is 12,380 km/h.
 
 <!---
