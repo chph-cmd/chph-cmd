@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vilay-del
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning fullstack web-service development on TypeScript, React and Node.js
+- 🌱 I’m currently learning fullstack development on JavaScript, React and Node.js
 - 💞️ I’m looking to collaborate on (Not at the moment)
 - 📫 How to reach me - send me a message in Telegram @roman_vilay
 - 😄 Pronouns: he/him
